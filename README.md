@@ -29,7 +29,7 @@ Install these prerequisites before proceeding-
 
 ### Method 1 : Using the built model 
 
-If you don't want to train the classifier from scratch, you can make the use of `main.py` directly as the the repository already has `fer.json` (trained model) and `fer.h5` (parameters) which can be used to predict emotion on any test image present in the folder. You can modify `fertestcustom.py` according to your requirements and use it to predict fatial emotion in any use case.
+If you don't want to train the classifier from scratch, you can make the use of `main.py` directly as the the repository already has `fer.json` (trained model) and `fer.h5` (parameters) which can be used to predict emotion on any test image present in the folder.
 
 ### Method 2 : Build from scratch
 Clone this repository.
